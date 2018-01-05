@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Translator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MemorySetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LIM</Value>
+    </Setting>
+    <Setting Name="ProcessSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AIT</Value>
+    </Setting>
+    <Setting Name="Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Futura Bk, 14pt</Value>
+    </Setting>
+    <Setting Name="FontOutput" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Futura Bk, 24pt</Value>
+    </Setting>
+    <Setting Name="dbLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
